@@ -32,3 +32,6 @@ Refer to the output.txt file inside each exercise folder.
 
 ## Git Documentation
 See git-commands.md for commands and merge conflict documentation.
+
+## GitHub Issue
+- Assignment tracking: https://github.com/masteramd-creator/git-practice-BT25CSE145/issues/1
