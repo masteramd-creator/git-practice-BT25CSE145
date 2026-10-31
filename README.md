@@ -1,4 +1,3 @@
-# Git Practice Assignment
 
 ## Student Details
 - Name: Aakarsh M. Dubey
@@ -27,8 +26,9 @@ Replace exercise-01 with the required folder for other exercises.
 Refer to the output.txt file inside each exercise folder.
 
 ## GitHub Activities
-- Issues: [Add Issue link]
-- Pull Request: [Add Pull Request link]
+
+- Issue: https://github.com/masteramd-creator/git-practice-BT25CSE145/issues/1
+- Pull Request: https://github.com/masteramd-creator/git-practice-BT25CSE145/pull/2
 
 ## Git Documentation
 See git-commands.md for commands and merge conflict documentation.
